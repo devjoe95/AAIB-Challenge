@@ -31,3 +31,25 @@ Furthermore we need a way to _block_ the content and _resolve_ those reports. Th
 - Code quality
 - Technical choices
 - A runnable full-stack application
+
+---
+## Instructions for running spam protection application:
+
+### Type this command in terminal
+- First: `git clone https://github.com/devjoe95/AAIB-Challenge.git`
+- Then: `cd AAIB-Challenge`
+
+To run server side application
+- Type: `npm install`    
+- Then: `npm start`
+
+To run client side application    
+- Type: `cd client`
+- Then: `npm install`    
+- Then: `npm start`
+- It will ask `Would you like to run the app on another port instead? … yes`
+- Type: `y or yes`
+
+## Sample view:
+
+![UI Reporting listing](images/screenshot.png)
